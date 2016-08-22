@@ -23,7 +23,7 @@
     "illuminate/config": "~4.2",
     "illuminate/console": "~4.2",
     "illuminate/container": "^4.2.7",
-    "illuminate/filesystem": "~4.2",
+    "illuminate/filesystem": "^5.2",
     "illuminate/events": "~4.2",
     "illuminate/remote": "~4.2",
     "illuminate/log": "~4.2",
