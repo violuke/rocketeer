@@ -25,7 +25,7 @@
     "illuminate/container": "~5.2",
     "illuminate/filesystem": "~5.2",
     "illuminate/events": "~5.2",
-    "illuminate/remote": "~5.2",
+    "illuminate/remote": "~5.0",
     "illuminate/log": "~5.2",
     "patchwork/utf8": "~1.1",
     "d11wtq/boris": "~1.0.8",
